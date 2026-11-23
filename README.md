@@ -4,7 +4,7 @@ Python öğrenme sürecimde geliştirdiğim temel pratikler ve konsol tabanlı m
 
 ## Projeler
 
-1. **[Proje 1 - Temel Veri Yapıları ve Öğrenci Not Hesaplama](./PROJE1.ipynb)**
+1. **[Proje 1 - Temel Veri Yapıları ve Öğrenci Not Hesaplama](./proje1_ogrenci_not_hesaplama.ipynb)**
    - Kullanıcıdan girdi alma, metin (string) dilimleme, liste ile not ortalaması hesaplama, sözlük (dictionary) ve küme (set) kullanımı.
 
 2. **[Proje 2 - Akıllı Quiz Uygulaması](./proje2_akilli_quiz.ipynb)**

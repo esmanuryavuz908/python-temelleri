@@ -13,6 +13,8 @@ Python öğrenme sürecimde geliştirdiğim temel pratikler ve konsol tabanlı m
 3. **[Proje 3 - Kullanıcı Yönetim Sistemi](./proje3_kullanici_yonetim_sistemi.ipynb)**
    - Fonksiyonlar kullanılarak oluşturulan; kullanıcı ekleme, listeleme, yaş/şehir filtreleme ve benzersiz yetenekleri görüntüleme uygulaması.
 
+4. **[Proje 4 - OOP Kütüphane Yönetim Sistemi](./proje4_oop_kutuphane_sistemi.ipynb)**
+   - Soyut sınıf (`ABC`), kalıtım (`BaseBook`, `Book`, `EBook`), kapsülleme ve çok biçimlilik prensipleriyle geliştirilmiş; kitap ekleme, listeleme, hata yakalama (`try-except`) ve dosyaya kaydetme özelliklerini içeren nesne yönelimli kütüphane uygulaması.
 ## Kullanılan Teknolojiler
 - Python 3
 - Jupyter Notebook
